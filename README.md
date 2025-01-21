@@ -1,4 +1,5 @@
 # 💙 Mensagens para o seu dia
+![image](https://github.com/user-attachments/assets/51e8efab-d21b-4a5b-bae0-f7d6f423e23c)
 
 ## 💻 Informações do projeto
 Código feito utilizando o JavaScript como a principal linguagem, juntamente do seu "motor" Node.JS.  
