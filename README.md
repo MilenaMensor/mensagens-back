@@ -7,7 +7,6 @@ Possui um Front-end simples _apenas para mostrar o back_ feito por mim utilizand
 ## 🔍 Tecnologias:
 - JavaScript
 - MongoDB Atlas
-- Node.JS
 
 ## 📚 O que Aprendi:
 - Teste de API'S
@@ -19,6 +18,31 @@ Possui um Front-end simples _apenas para mostrar o back_ feito por mim utilizand
 
 ## ❓ Como executar:
 Baixe o código, depois crie uma pasta em seu VSCode.  
+Precisará criar um **_.env_** para o banco de dados o banco de dados que deseja conectar.
 No próprio arquivo possui as versões que são necessárias, dê uma olhada em _package.json_.
 
-Código para baixar: 
+- Comandos para baixar e rodar: 
+```
+npm install d
+npm run dev
+```
+
+
+
+## English: Messages for your day
+
+### 💻 Project information
+Code made using JavaScript as the main language, together with its Node.JS.  
+It has a simple front-end _just to show the back_ made by me using HTML, CSS and JavaScript.
+
+### 🔍 Technologies:
+- JavaScript
+- MongoDB Atlas
+
+### 📚 What I learned:
+- API'S Test
+- Organized Routes
+- Dependency injection
+- Error Handling
+- Connection with the **Front-end** and **Back-end**
+- Connection with the **Back-end** and **Database**
